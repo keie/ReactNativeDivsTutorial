@@ -1,2 +1,2 @@
-# ReactNativeDivsTutorial
-React native app with divs structure
+# ReactNativeTutorial
+Tutorial to learn about react native technology
